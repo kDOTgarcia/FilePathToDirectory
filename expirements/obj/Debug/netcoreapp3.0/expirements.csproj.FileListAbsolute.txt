@@ -1,0 +1,11 @@
+C:\Users\kayag\Documents\projects\expirements\obj\Debug\netcoreapp3.0\expirements.csprojAssemblyReference.cache
+C:\Users\kayag\Documents\projects\expirements\obj\Debug\netcoreapp3.0\expirements.AssemblyInfoInputs.cache
+C:\Users\kayag\Documents\projects\expirements\obj\Debug\netcoreapp3.0\expirements.AssemblyInfo.cs
+C:\Users\kayag\Documents\projects\expirements\bin\Debug\netcoreapp3.0\expirements.exe
+C:\Users\kayag\Documents\projects\expirements\bin\Debug\netcoreapp3.0\expirements.deps.json
+C:\Users\kayag\Documents\projects\expirements\bin\Debug\netcoreapp3.0\expirements.runtimeconfig.json
+C:\Users\kayag\Documents\projects\expirements\bin\Debug\netcoreapp3.0\expirements.runtimeconfig.dev.json
+C:\Users\kayag\Documents\projects\expirements\bin\Debug\netcoreapp3.0\expirements.dll
+C:\Users\kayag\Documents\projects\expirements\bin\Debug\netcoreapp3.0\expirements.pdb
+C:\Users\kayag\Documents\projects\expirements\obj\Debug\netcoreapp3.0\expirements.dll
+C:\Users\kayag\Documents\projects\expirements\obj\Debug\netcoreapp3.0\expirements.pdb
